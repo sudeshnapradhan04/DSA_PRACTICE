@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
