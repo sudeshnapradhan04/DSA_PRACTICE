@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Dynamic Programming
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Memoization
