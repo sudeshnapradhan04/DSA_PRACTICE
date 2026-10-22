@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Tree
 |  |
@@ -71,4 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
