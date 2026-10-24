@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0009-palindrome-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Divide and Conquer
 |  |
