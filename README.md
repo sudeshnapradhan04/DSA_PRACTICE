@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0001-two-sum) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Indexed Tree
