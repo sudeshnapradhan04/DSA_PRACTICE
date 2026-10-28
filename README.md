@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0015-3sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0015-3sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Math
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0015-3sum) |
 ## String
 |  |
 | ------- |
