@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0013-roman-to-integer) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Indexed Tree
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0013-roman-to-integer) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Divide and Conquer
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0013-roman-to-integer) |
 ## Manacher
 |  |
 | ------- |
