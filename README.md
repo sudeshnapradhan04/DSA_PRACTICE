@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0027-remove-element) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0014-longest-common-prefix) |
 ## Manacher
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0021-merge-two-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sudeshnapradhan04/DSA_PRACTICE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
